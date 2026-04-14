@@ -7,3 +7,4 @@
 # Добавим раздел для тестирования этих изменений в новой ветке TestFirstBranch
 
 # SecondTestBranch commit 1
+# SecondTestBranch commit 2
